@@ -7,7 +7,7 @@
 - 📫 Reach out on: <a href="https://linkedin.com/in/thornike">LinkedIn</a>
 - ☝️ Open to Remote/Relocate
 - 💡 To get readme like this, create a repository with the name that matches your GitHub username.
-- 👨‍💻 More info is available on [tornike.dev](https://tornike.dev)
+<!-- - 👨‍💻 More info is available on [tornike.dev](https://tornike.dev)
 - 🤘 I don't give a 💩 about the "code of conduct" when people are suffering/dying
 <!--
 <h3 align="left">Connect with me:</h3>
