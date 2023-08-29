@@ -5,11 +5,8 @@
 
 - 🚀 Mobile Engineer
 - 📫 Reach out on: <a href="https://linkedin.com/in/thornike">LinkedIn</a>
-- ☝️ Open to Remote/Relocate
-- 💡 To get readme like this, create a repository with the name that matches your GitHub username.
-<!-- - 👨‍💻 More info is available on [tornike.dev](https://tornike.dev)
-- 🤘 I don't give a 💩 about the "code of conduct" when people are suffering/dying
-<!--
+
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/tornike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tornike" height="30" width="40" /></a>
